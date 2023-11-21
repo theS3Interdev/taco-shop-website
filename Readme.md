@@ -1,8 +1,6 @@
-# The Little Taco Shop
+# Taco Shop
 
 This is a simple project created to learn the basics of HTML. The project is bundled with Vite.js, which is a build tool that helps you develop and deploy web applications quickly and easily.
-
-The project also puts into practice proper management of Git by organizing code into development, staging and production branches so that there is always a version of the code ready to go.
 
 ## Getting Started
 
@@ -39,6 +37,10 @@ This will create a dist folder that contains the optimized and minified files th
 2. CSS
 
 3. Vite.JS
+
+4. GitHub Actions
+
+5. GitHub Pages
 
 ## License
 
